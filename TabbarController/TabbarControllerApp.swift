@@ -11,7 +11,7 @@ import SwiftUI
 struct TabbarControllerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PDFKitViewContent()
         }
     }
 }
